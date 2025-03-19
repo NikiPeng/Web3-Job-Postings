@@ -1,6 +1,8 @@
 # Web3-Job-Postings
 Hiring-Top Web3 Company
+
 区块链智能合约开发工程师：
+
 岗位职责：
 1. 负责Solana链上智能合约项目的设计、开发、部署和维护；
 2. 负责Java后端服务的开发、优化与维护；
